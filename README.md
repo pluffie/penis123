@@ -12,7 +12,7 @@ Print hello world:
 penis
 ```
 
-And calculate nothing with recuse:
+And calculate nothing with recurse:
 ```
 123
 ```
