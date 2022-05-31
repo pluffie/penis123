@@ -24,6 +24,6 @@ $ git clone https://github.com/pluffie/penis123/
 ```
 2. Build with clang
 ```sh
-$ clang++ ./penis123/penis123.cpp -o ./penis123
+$ clang++ ./penis123/penis123.cpp -o ./penis123c
 ```
 3. Enjoy!
